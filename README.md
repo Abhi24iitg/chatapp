@@ -1,4 +1,4 @@
-# Real-Time-Chat-App
+# Chat-App
 This is a Full stack website with plenty of features.  
 I am attaching some screenshots for an Overview.  
 # **This is the frontpage when someone starts the website**
@@ -12,7 +12,7 @@ After Signup And Login It will take You to the main Page.
 ![Screenshot (218)](https://github.com/Abhi24iitg/Real-Time-Chat/assets/115046232/92e7aeea-f244-481c-b0dc-8e594a252e2a)  
 ![Screenshot (220)](https://github.com/Abhi24iitg/Real-Time-Chat/assets/115046232/b82209fa-d276-447c-93ea-b1547eb26d5d)  
 
-If you click on search user then you can search any user with there by putting there unique Email id  
+If you click on search user then you can search any user with there by putting there unique email id  
 ![Screenshot (221)](https://github.com/Abhi24iitg/Real-Time-Chat/assets/115046232/79a86097-7671-4560-b961-b6392bebb487)  
 And when you click on any user then it will create a room.  
 ![Screenshot (222)](https://github.com/Abhi24iitg/Real-Time-Chat/assets/115046232/131b421a-66b2-4b77-80f5-cb949bc021e0)  

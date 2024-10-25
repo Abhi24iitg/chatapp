@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.home-row {
+  width: 100vw;
+}
+.home__bg {
+  height: 85vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+.home-logo {
+  width: 840px;
+  height: 610px;
+}
+.home-message-icon {
+  margin-left: 10px;
+  display: inline-block;
+}
